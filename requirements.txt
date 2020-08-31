@@ -1,0 +1,7 @@
+visdom
+nibabel
+pandas
+tqdm
+matplotlib
+opencv-python
+
